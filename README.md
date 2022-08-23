@@ -1,0 +1,5 @@
+# AliceBOT_Colorfulclouds_Plugin
+基于AliceBOT对mirai的Python插件实现，编写的一个极为简单（臃肿？）的彩云天气插件
+
+初涉编程便选择了先学习Python，其次最近在使用mirai在学校新生群为新生提供帮助，心血来潮便产生了学习Python制作插件的念头
+可能非常非常简单...还在学习ing
