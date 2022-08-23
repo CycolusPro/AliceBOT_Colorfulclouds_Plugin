@@ -4,7 +4,7 @@ import urllib.request
 from alicebot.plugin import Plugin
 
 # 各种变量
-caiyunapp_token = "BItPKg1TBG4xdGAB"
+caiyunapp_token = "填写你自己的Token"
 location = '110.33119,20.031971' #海南海口市辖区
 req_rain = 'https://api.caiyunapp.com/v2.6/%s/%s/minutely' % (caiyunapp_token, location)
 req_info = 'https://api.caiyunapp.com/v2.6/%s/%s/realtime' % (caiyunapp_token, location)
