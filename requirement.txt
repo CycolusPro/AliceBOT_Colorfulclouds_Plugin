@@ -1,0 +1,2 @@
+alicebot==0.5.0
+alicebot-adapter-cqhttp==0.2.2
